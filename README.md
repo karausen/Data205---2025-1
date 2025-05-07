@@ -1,6 +1,6 @@
 # Data205---2025-1
 
-This is my capstone project for the class took in spring 2025 at Montgomery College. The project is a partnership between the City of Rockville and the college. The city of rockville gained a grant from the federal government to build a pedestrian bridge crossing the metro tracks in the area of twinbrook station. The project presented by them was, a explanation on the better way/location to put the bridge on.
+This is my capstone project for the class took in spring 2025 at Montgomery College. The project is a partnership between the City of Rockville and the college. The city of rockville gained a grant from the federal government to build a pedestrian bridge crossing the metro tracks in the area of twinbrook station. The project presented by them was, a explanation on the better way/location to put the bridge on. And more exploration on the situation the benefits it can bring.
 
 # Exploring the problem: urbanization in the USA
 
